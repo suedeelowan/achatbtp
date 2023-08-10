@@ -1,0 +1,117 @@
+
+---Downloaded files---
+The import files for: Unicase-v1 were successfully downloaded!
+Initial max execution time = 120000
+Files info:
+Site URL = http://localhost/achatbtp
+Data file = D:\dev\htdocs\achatbtp/wp-content/themes/unicase/assets/dummy-data/v1/dummy-data.xml
+Widget file = D:\dev\htdocs\achatbtp/wp-content/themes/unicase/assets/dummy-data/v1/widgets.wie
+Customizer file = not defined!
+Redux files:
+unicase_options -> D:\dev\htdocs\achatbtp/wp-content/themes/unicase/assets/dummy-data/v1/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Rechercher - No Title - Imported
+Articles récents - No Title - Imported
+Commentaires récents - No Title - Imported
+Archives - No Title - Imported
+Catégories - No Title - Imported
+Méta - No Title - Imported
+
+Page Sidebar : 
+
+Vertical Menu - Categories - Imported
+Liste des produits - Special Products - Imported
+Liste des produits - Sale Products - Imported
+Unicase Products Carousel - Hot Deals - Imported
+Texte - No Title - Imported
+
+Shop Sidebar : 
+
+Unicase Product Filter - Shop by - Imported
+Texte - No Title - Imported
+YITH WooCommerce Compare Widget - COMPARE - Imported
+
+Product Filters : 
+
+Catégories de produit - Category - Imported
+Filtrer les produits par prix - Price Slider - Imported
+Filtrer les produits par attribut - Manufactures - Imported
+Filtrer les produits par attribut - Colors - Imported
+Filtres de produit actifs - Active Filters - Imported
+
+Footer Top Widgets : 
+
+Texte - Newsletter - Imported
+Texte - Opening Time - Imported
+Texte - Information - Imported
+
+Footer Bottom Widgets : 
+
+Menu de navigation - Pre-Built Pages - Imported
+Menu de navigation - Shop Fullwidth - Imported
+Menu de navigation - Shop Sidebar - Imported
+Menu de navigation - WooCommerce Shortcodes - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: unicase_options finished successfully!
+
+---ocdi/after_import---
+

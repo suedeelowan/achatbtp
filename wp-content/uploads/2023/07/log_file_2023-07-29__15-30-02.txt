@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Unicase-v1 were successfully downloaded!
+Initial max execution time = 120000
+Files info:
+Site URL = http://localhost/achatbtp
+Data file = D:\dev\htdocs\achatbtp/wp-content/themes/unicase/assets/dummy-data/v1/dummy-data.xml
+Widget file = D:\dev\htdocs\achatbtp/wp-content/themes/unicase/assets/dummy-data/v1/widgets.wie
+Customizer file = not defined!
+Redux files:
+unicase_options -> D:\dev\htdocs\achatbtp/wp-content/themes/unicase/assets/dummy-data/v1/redux-options.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Rechercher - No Title - Widget already exists
+Articles récents - No Title - Widget already exists
+Commentaires récents - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Catégories - No Title - Widget already exists
+Méta - No Title - Widget already exists
+
+Page Sidebar : 
+
+Vertical Menu - Categories - Widget already exists
+Liste des produits - Special Products - Widget already exists
+Liste des produits - Sale Products - Widget already exists
+Unicase Products Carousel - Hot Deals - Widget already exists
+Texte - No Title - Widget already exists
+
+Shop Sidebar : 
+
+Unicase Product Filter - Shop by - Widget already exists
+Texte - No Title - Widget already exists
+YITH WooCommerce Compare Widget - COMPARE - Widget already exists
+
+Product Filters : 
+
+Catégories de produit - Category - Widget already exists
+Filtrer les produits par prix - Price Slider - Widget already exists
+Filtrer les produits par attribut - Manufactures - Widget already exists
+Filtrer les produits par attribut - Colors - Widget already exists
+Filtres de produit actifs - Active Filters - Widget already exists
+
+Footer Top Widgets : 
+
+Texte - Newsletter - Widget already exists
+Texte - Opening Time - Widget already exists
+Texte - Information - Widget already exists
+
+Footer Bottom Widgets : 
+
+Menu de navigation - Pre-Built Pages - Widget already exists
+Menu de navigation - Shop Fullwidth - Widget already exists
+Menu de navigation - Shop Sidebar - Widget already exists
+Menu de navigation - WooCommerce Shortcodes - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: unicase_options finished successfully!
+
+---ocdi/after_import---
+

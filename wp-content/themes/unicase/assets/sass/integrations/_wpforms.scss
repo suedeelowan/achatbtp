@@ -1,0 +1,107 @@
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=email],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=password],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=search],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=text],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=url],
+div.wpforms-container-full.newsletter-form .wpforms-form textarea,
+div.wpforms-container-full.contact-form .wpforms-form input[type=email],
+div.wpforms-container-full.contact-form .wpforms-form input[type=password],
+div.wpforms-container-full.contact-form .wpforms-form input[type=search],
+div.wpforms-container-full.contact-form .wpforms-form input[type=text],
+div.wpforms-container-full.contact-form .wpforms-form input[type=url],
+div.wpforms-container-full.contact-form .wpforms-form textarea  {
+    display: block;
+    font-weight: 400;
+    padding: 6px 12px;
+    
+
+    &:focus{
+        background-color: #fff;
+        border-color: #555;
+    }
+}
+
+div.wpforms-container-full.contact-form .wpforms-form input[type=email],
+div.wpforms-container-full.contact-form .wpforms-form input[type=password],
+div.wpforms-container-full.contact-form .wpforms-form input[type=search],
+div.wpforms-container-full.contact-form .wpforms-form input[type=text],
+div.wpforms-container-full.contact-form .wpforms-form input[type=url] {
+    height: 34px;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #555;
+}
+
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=email],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=password],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=search],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=text],
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=url],
+div.wpforms-container-full.newsletter-form .wpforms-form textarea {
+    background-color: #f7f7f7;
+    font-size: 12px;
+    line-height: 1.7;
+    height: auto;
+    color: #9e9e9e;
+}
+
+div.wpforms-container-full.newsletter-form .wpforms-form .wpforms-field-label,
+div.wpforms-container-full.contact-form .wpforms-form .wpforms-field-label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.618;
+    float: left;
+    clear: both;
+}
+
+div.wpforms-container-full.newsletter-form .wpforms-form input[type=submit],
+div.wpforms-container-full.newsletter-form .wpforms-form button[type=submit],
+div.wpforms-container-full.newsletter-form .wpforms-form .wpforms-page-button,
+div.wpforms-container-full.contact-form .wpforms-form input[type=submit],
+div.wpforms-container-full.contact-form .wpforms-form button[type=submit],
+div.wpforms-container-full.contact-form .wpforms-form .wpforms-page-button {
+    @include btn;
+    background: transparent;
+    border: 2px solid #ddd;
+    color: #666;
+    font-size: 14px;
+    padding: 10px 26px;
+    border-radius: 5px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+div.wpforms-container-full.newsletter-form .wpforms-form .wpforms-submit-container,
+div.wpforms-container-full.newsletter-form .wpforms-form .wpforms-field,
+div.wpforms-container-full.contact-form .wpforms-form .wpforms-submit-container,
+div.wpforms-container-full.contact-form .wpforms-form .wpforms-field {
+    padding: 0;
+}
+
+div.wpforms-container-full.newsletter-form .wpforms-form .wpforms-submit-container {
+    margin-top: 16px;
+}
+
+div.wpforms-container-full.contact-form .wpforms-form .wpforms-field-container {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+div.wpforms-container-full.contact-form .wpforms-form .wpforms-field {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 0;
+    clear: none;
+    margin-bottom: 15px;
+    padding-bottom: 0;
+
+    &.col-md-4 {
+        @media (min-width: 992px) {
+            width: 33.33333333%;
+            float:left;
+        }
+    }
+}

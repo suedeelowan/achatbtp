@@ -1,0 +1,48 @@
+.demo_store {
+	position: fixed;
+	left: 0;
+	bottom: 69px;
+	right: 0;
+	margin: 0;
+	padding: 1em 1.41575em;
+	background-color: #3D9CD2;
+	color: #fff;
+	z-index: 999;
+
+	a {
+		color: #fff;
+		font-weight: 400;
+		text-decoration: underline;
+		display: block;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+
+	&:before {
+		@include fa-icon();
+		margin-right: .5407911001em;
+		content: "\f05a";
+	}
+}
+
+@media ( min-width: $screen-md-min ) {
+	.demo_store {
+		bottom: 0;
+
+		a {
+			background: rgba(#000,.1);
+			float: right;
+			display: inline-block;
+			margin: -1em -1.41575em -1em 0;
+			padding: 1em 1.41575em;
+
+			&:before {
+				@include fa-icon();
+				content: "\f057";
+				margin-right: .5407911001em;
+			}
+		}
+	}
+}

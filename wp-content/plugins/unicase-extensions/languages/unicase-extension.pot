@@ -1,0 +1,632 @@
+# Copyright (C) 2021 MadrasThemes
+# This file is distributed under the same license as the Unicase Extensions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Unicase Extensions 1.6.8\n"
+"Report-Msgid-Bugs-To: "
+"https://themeforest.net/item/unicase-electronics-store-woocommerce-theme/136"
+"26672/support/\n"
+"POT-Creation-Date: 2021-07-29 14:22:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Unicase POT <unicase@transvelo.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: modules/js_composer/config/map.php:16
+msgid "Unicase Terms"
+msgstr ""
+
+#: modules/js_composer/config/map.php:18
+msgid ""
+"Adds a shortcode for get_terms. Used to get terms including categories, "
+"product categories, etc."
+msgstr ""
+
+#: modules/js_composer/config/map.php:22 modules/js_composer/config/map.php:127
+#: modules/js_composer/config/map.php:255
+#: modules/js_composer/config/map.php:353
+#: modules/js_composer/config/map.php:419
+#: modules/js_composer/config/map.php:507
+#: modules/js_composer/config/map.php:608
+msgid "Unicase Elements"
+msgstr ""
+
+#: modules/js_composer/config/map.php:121
+msgid "Banner"
+msgstr ""
+
+#: modules/js_composer/config/map.php:123
+msgid "Add a banner to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:131
+msgid "Caption"
+msgstr ""
+
+#: modules/js_composer/config/map.php:133
+msgid "Enter banner caption"
+msgstr ""
+
+#: modules/js_composer/config/map.php:139
+msgid "Height"
+msgstr ""
+
+#: modules/js_composer/config/map.php:141
+msgid "Height of banner in pixels"
+msgstr ""
+
+#: modules/js_composer/config/map.php:146
+msgid "Banner Text Position"
+msgstr ""
+
+#: modules/js_composer/config/map.php:149
+#: modules/js_composer/config/map.php:219
+#: modules/js_composer/config/map.php:433
+#: modules/js_composer/config/map.php:453
+#: modules/js_composer/config/map.php:473
+#: modules/js_composer/config/map.php:521
+#: modules/js_composer/config/map.php:623
+#: modules/js_composer/config/map.php:634
+msgid "Select"
+msgstr ""
+
+#: modules/js_composer/config/map.php:150
+msgid "Left"
+msgstr ""
+
+#: modules/js_composer/config/map.php:151
+msgid "Right"
+msgstr ""
+
+#: modules/js_composer/config/map.php:152
+msgid "Center"
+msgstr ""
+
+#: modules/js_composer/config/map.php:158
+msgid "Wrap inside a container"
+msgstr ""
+
+#: modules/js_composer/config/map.php:161
+msgid "Yes"
+msgstr ""
+
+#: modules/js_composer/config/map.php:167
+msgid "Banner Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:173
+msgid "Background Position"
+msgstr ""
+
+#: modules/js_composer/config/map.php:175
+msgid ""
+"Background Position of banner image. Applicable only if banner image is "
+"added"
+msgstr ""
+
+#: modules/js_composer/config/map.php:180
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:141
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:166
+msgid "Background Color"
+msgstr ""
+
+#: modules/js_composer/config/map.php:182
+msgid "Background color of banner"
+msgstr ""
+
+#: modules/js_composer/config/map.php:187
+msgid "Background Size"
+msgstr ""
+
+#: modules/js_composer/config/map.php:189
+msgid "Background size attribute of banner image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:194
+msgid "Background Repeat"
+msgstr ""
+
+#: modules/js_composer/config/map.php:196
+msgid "Background repeat of banner image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:201
+msgid "Color"
+msgstr ""
+
+#: modules/js_composer/config/map.php:203
+msgid "Text color of Banner"
+msgstr ""
+
+#: modules/js_composer/config/map.php:208
+msgid "Banner Link"
+msgstr ""
+
+#: modules/js_composer/config/map.php:210
+msgid "Link to banner."
+msgstr ""
+
+#: modules/js_composer/config/map.php:216
+msgid "On Click"
+msgstr ""
+
+#: modules/js_composer/config/map.php:220
+msgid "Open in same page"
+msgstr ""
+
+#: modules/js_composer/config/map.php:221
+msgid "Open in new page"
+msgstr ""
+
+#: modules/js_composer/config/map.php:228
+msgid "Caption Extra Class"
+msgstr ""
+
+#: modules/js_composer/config/map.php:230
+msgid "Add your extra classes here for the caption."
+msgstr ""
+
+#: modules/js_composer/config/map.php:236
+msgid "Extra Class"
+msgstr ""
+
+#: modules/js_composer/config/map.php:238
+msgid "Add your extra classes here."
+msgstr ""
+
+#: modules/js_composer/config/map.php:249
+msgid "Blog Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:251
+msgid "Add a blog carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:259
+#: modules/js_composer/config/map.php:357
+#: modules/js_composer/config/map.php:613
+msgid "Enter Carousel title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:266
+msgid "Number of Blog to display"
+msgstr ""
+
+#: modules/js_composer/config/map.php:273
+#: modules/js_composer/config/map.php:379
+msgid "Order by"
+msgstr ""
+
+#: modules/js_composer/config/map.php:275
+#: modules/js_composer/config/map.php:381
+msgid ""
+" Sort retrieved posts by parameter. Defaults to 'date'. One or more options "
+"can be passed"
+msgstr ""
+
+#: modules/js_composer/config/map.php:281
+#: modules/js_composer/config/map.php:387
+msgid "Order"
+msgstr ""
+
+#: modules/js_composer/config/map.php:283
+#: modules/js_composer/config/map.php:389
+msgid ""
+"Designates the ascending or descending order of the 'orderby' parameter. "
+"Defaults to 'DESC'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:289
+msgid "ID (optional)"
+msgstr ""
+
+#: modules/js_composer/config/map.php:296
+msgid "Category ID (optional)"
+msgstr ""
+
+#: modules/js_composer/config/map.php:304
+#: modules/js_composer/config/map.php:396
+#: modules/js_composer/config/map.php:592
+#: modules/js_composer/config/map.php:669
+msgid "Disable Touch Drag"
+msgstr ""
+
+#: modules/js_composer/config/map.php:305
+#: modules/js_composer/config/map.php:397
+#: modules/js_composer/config/map.php:593
+#: modules/js_composer/config/map.php:670
+msgid "Enable/Disable Touch Drag."
+msgstr ""
+
+#: modules/js_composer/config/map.php:306
+#: modules/js_composer/config/map.php:398
+#: modules/js_composer/config/map.php:594
+#: modules/js_composer/config/map.php:671
+msgid "Disable"
+msgstr ""
+
+#: modules/js_composer/config/map.php:329
+msgid "Choose Category"
+msgstr ""
+
+#: modules/js_composer/config/map.php:330
+msgid "All Categories"
+msgstr ""
+
+#: modules/js_composer/config/map.php:347
+msgid "Brands Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:349
+msgid "Add a brands carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:364
+msgid "Number of Brands to display"
+msgstr ""
+
+#: modules/js_composer/config/map.php:372
+msgid "Show only has products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:373
+msgid "Show only if products are available."
+msgstr ""
+
+#: modules/js_composer/config/map.php:374
+msgid "Allow"
+msgstr ""
+
+#: modules/js_composer/config/map.php:403
+msgid "Enter the brand ids followed by comma(,) to display brands."
+msgstr ""
+
+#: modules/js_composer/config/map.php:416
+msgid "Product Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:418
+msgid "Add Product Tabs to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:424
+#: modules/js_composer/config/map.php:532
+msgid "Tab #1 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:430
+#: modules/js_composer/config/map.php:538
+msgid "Tab #1 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:434
+#: modules/js_composer/config/map.php:454
+#: modules/js_composer/config/map.php:474
+#: modules/js_composer/config/map.php:522
+#: modules/js_composer/config/map.php:635
+msgid "Featured Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:435
+#: modules/js_composer/config/map.php:455
+#: modules/js_composer/config/map.php:475
+#: modules/js_composer/config/map.php:523
+#: modules/js_composer/config/map.php:636
+msgid "On Sale Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:436
+#: modules/js_composer/config/map.php:456
+#: modules/js_composer/config/map.php:476
+#: modules/js_composer/config/map.php:524
+#: modules/js_composer/config/map.php:637
+msgid "Top Rated Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:437
+#: modules/js_composer/config/map.php:457
+#: modules/js_composer/config/map.php:477
+#: modules/js_composer/config/map.php:525
+#: modules/js_composer/config/map.php:638
+msgid "Recent Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:438
+#: modules/js_composer/config/map.php:458
+#: modules/js_composer/config/map.php:478
+#: modules/js_composer/config/map.php:526
+#: modules/js_composer/config/map.php:639
+msgid "Best Selling Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:444
+#: modules/js_composer/config/map.php:545
+msgid "Tab #2 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:450
+#: modules/js_composer/config/map.php:551
+msgid "Tab #2 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:464
+#: modules/js_composer/config/map.php:558
+msgid "Tab #3 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:470
+#: modules/js_composer/config/map.php:564
+msgid "Tab #3 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:484
+msgid "Enter Product Items"
+msgstr ""
+
+#: modules/js_composer/config/map.php:491
+msgid "Enter Product Columns"
+msgstr ""
+
+#: modules/js_composer/config/map.php:504
+msgid "Product Tabs Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:506
+msgid "Add Product Tabs Carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:512
+msgid "Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:518
+msgid "Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:571
+msgid "Tab #4 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:577
+msgid "Tab #4 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:584
+#: modules/js_composer/config/map.php:661
+msgid "Enter Carousel Items"
+msgstr ""
+
+#: modules/js_composer/config/map.php:605
+msgid "Products Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:607
+msgid "Add Products Carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:620
+msgid "Type"
+msgstr ""
+
+#: modules/js_composer/config/map.php:624
+msgid "Type 1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:625
+msgid "Type 2"
+msgstr ""
+
+#: modules/js_composer/config/map.php:631
+msgid "Product Content"
+msgstr ""
+
+#: modules/js_composer/config/map.php:640
+msgid "Products by IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:646
+msgid "Enter Product IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:647
+msgid "This is works only for Products by IDs shortcode."
+msgstr ""
+
+#: modules/js_composer/config/map.php:654
+msgid "Category"
+msgstr ""
+
+#: modules/post-types/static-block.php:51
+msgid "Add New Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:52
+msgid "Edit Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:53
+msgid "New Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:54
+msgid "Static Blocks"
+msgstr ""
+
+#: modules/post-types/static-block.php:55
+msgid "View Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:56
+msgid "Search"
+msgstr ""
+
+#: modules/post-types/static-block.php:57
+msgid "No blocks found"
+msgstr ""
+
+#: modules/post-types/static-block.php:58
+msgid "No blocks found in Trash"
+msgstr ""
+
+#: modules/post-types/static-block.php:199
+msgid "Content Options"
+msgstr ""
+
+#: modules/post-types/static-block.php:205
+msgid "Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block.php:206
+msgid "Apply all WP content filters? This will include plugin added filters."
+msgstr ""
+
+#: modules/post-types/static-block.php:211
+msgid "Defaults (recommended)"
+msgstr ""
+
+#: modules/post-types/static-block.php:212
+msgid "All Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block.php:216
+msgid "Auto Paragraphs"
+msgstr ""
+
+#: modules/post-types/static-block.php:217
+msgid ""
+"Add &lt;p&gt; and &lt;br&gt; tags automatically.(disabling may fix layout "
+"issues)"
+msgstr ""
+
+#: modules/post-types/static-block.php:222
+msgid "On"
+msgstr ""
+
+#: modules/post-types/static-block.php:223
+msgid "Off"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:67
+msgid "Search Labels"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:68
+msgid "Popular Labels"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:69
+msgid "All Labels"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:72
+msgid "Edit Label"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:73
+msgid "Update Label"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:74
+msgid "Add New Label"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:75
+msgid "New Label Name"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:76
+msgid "Separate labels with commas"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:77
+msgid "Add or remove labels"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:78
+msgid "Choose from the most used labels"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:79
+msgid "No labels found."
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:80
+msgid "Labels"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:143
+msgid ""
+"Background color as a hex value. For example : #000000 is black and #FFFFFF "
+"is white"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:146
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:172
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:210
+msgid "Text Color"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:148
+msgid ""
+"Text color as a hex value. For example : #000000 is black and #FFFFFF is "
+"white"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:209
+msgid "BG Color"
+msgstr ""
+
+#: modules/theme-shortcodes/theme-shortcodes.php:94
+msgid "You need to enable YITH Compare plugin for product comparison to work"
+msgstr ""
+
+#: unicase-extensions.php:163 unicase-extensions.php:172
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Unicase Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://transvelo.github.io/unicase/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This selection of extensions compliment our lean and mean theme for "
+"WooCommerce, Unicase. Please note: they don’t work with any WordPress "
+"theme, just Unicase."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#: modules/post-types/static-block.php:48
+msgctxt "post type general name"
+msgid "Static Content Blocks"
+msgstr ""
+
+#: modules/post-types/static-block.php:49
+msgctxt "post type singular name"
+msgid "Static Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:50
+msgctxt "block"
+msgid "Add New"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:65
+msgctxt "taxonomy general name"
+msgid "Labels"
+msgstr ""
+
+#: modules/product-taxonomies/class-uc-product-taxonomies.php:66
+msgctxt "taxonomy singular name"
+msgid "Label"
+msgstr ""

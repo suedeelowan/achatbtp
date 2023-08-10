@@ -1,0 +1,111 @@
+/*===================================================================================*/
+/*  Single Product Accessories
+/*===================================================================================*/
+
+.single-product .site-main {
+	.woocommerce-Tabs-panel .accessories-wrapper {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+
+		.accessories-product {
+			width: 100%;
+
+			.products .product {
+				margin-bottom: 0;
+
+				@media (max-width: 767px) {
+					border: 1px solid #ddd;
+					margin-bottom: 12px;
+
+					&:last-child {
+						margin-bottom: 0;
+					}					
+				}
+
+				h2 {
+					display: block;
+					margin-top: 5px;
+
+					@media (max-width: 767px) {
+						text-align: center;
+					}
+				}
+
+				.price {
+					font-size: 14px;
+
+					@media (max-width: 767px) {
+						text-align: center;
+						margin-bottom: 18px;
+					}
+
+					del {
+						font-size: 13px;
+					}
+				}
+
+				&+.product:before {
+					content: " ";
+					width: 1px;
+					height: 85%;
+					background-color: #ebebeb;
+					display: block;
+					left: 0;
+					position: absolute;
+					top: 50%;
+					transform: translateY(-50%);
+
+					@media (max-width: 767px) {
+						display: none;
+					}
+				}
+
+				&+.product:after {
+					left: -12px;
+					padding: 2px 7px;
+					border-radius: 50px;
+					font-size: 19px;
+					width: 25px;
+					font-weight: 300;
+					content: "+";
+					line-height: 1.2;
+					background: #ebebeb;
+					position: absolute;
+					top: 50%;
+					transform: translateY(-50%);
+					z-index: 99;
+
+					@media (max-width: 767px) {
+						top: -21px;
+						left: 50%;
+						transform: translate(-50%);
+						width: 30px;
+						padding: 4px 10px;
+						font-weight: 400;
+					}
+				}
+			}
+		}
+
+		.check-products {
+			@media (max-width: 767px) {
+				margin-bottom: 15px;
+			}
+		}
+
+		.accessories-product-total-price {
+			.total-price {
+				margin-bottom: 1em;
+
+				.total-price-html {
+					font-size: 1.5em;
+					line-height: 1;
+					margin-bottom: 0.222em;
+				}
+			}
+		}
+	}	
+}
+
+
